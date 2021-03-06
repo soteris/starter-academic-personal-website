@@ -1,14 +1,14 @@
 ---
 reading_time: false
 widget: pages
-summary: Here we describe how to add a page to your site.
+summary: 
 profile: false
 header:
   caption: ""
   image: ""
 date: 2018-06-28T00:00:00Z
 comments: false
-widget_id: teaching-detaiils
+widget_id: teaching-details
 headless: true
 weight: 100
 title: Teaching
