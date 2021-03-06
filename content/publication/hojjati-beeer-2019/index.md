@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-06T18:52:31.777489Z'
+publishDate: '2021-03-06T19:19:40.812105Z'
 publication_types:
 - '1'
 abstract: Medical devices in hospital operating rooms are getting increasingly interconnected.

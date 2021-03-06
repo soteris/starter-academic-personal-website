@@ -26,10 +26,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-06T18:52:27.025494Z'
+publishDate: '2021-03-06T19:19:39.986939Z'
 publication_types:
 - '1'
 abstract: ''
-publication: ''
+publication: '*Third International Workshop on Automotive and Autonomous Vehicle Security
+  (AutoSec) - co-located with NDSS*'
 url_pdf: https://www.ndss-symposium.org/ndss-paper/auto-draft-112/
 ---

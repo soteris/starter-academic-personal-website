@@ -48,7 +48,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-06T18:52:32.061469Z'
+publishDate: '2021-03-06T19:19:41.085567Z'
 publication_types:
 - '1'
 abstract: An increasing number of depth sensors and surrounding-aware cameras are
@@ -68,6 +68,6 @@ abstract: An increasing number of depth sensors and surrounding-aware cameras ar
   not require stationary landmarks or 3D maps. We empirically evaluate CoDrive which
   is shown to achieve a 90% and a 30% reduction in cumulative GPS error for legacy
   and sensor-rich cars respectively, while preserving the shape of the traffic.
-publication: '*IEEE INFOCOM 2018 - IEEE Conference on Computer Communications*'
+publication: "*IEEE Conference on Computer Communications (IEEE INFOCOM '18)*"
 doi: 10.1109/INFOCOM.2018.8486281
 ---

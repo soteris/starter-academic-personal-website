@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-06T18:52:31.360948Z'
+publishDate: '2021-03-06T19:19:40.403759Z'
 publication_types:
 - '1'
 abstract: We present DarkneTZ, a framework that uses an edge device's Trusted Execution

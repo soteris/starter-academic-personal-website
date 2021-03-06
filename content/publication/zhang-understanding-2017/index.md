@@ -42,7 +42,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-06T18:52:32.956398Z'
+publishDate: '2021-03-06T19:19:41.906996Z'
 publication_types:
 - '2'
 abstract: Inspired by the boom of the consumer IoT market, many device manufacturers,
