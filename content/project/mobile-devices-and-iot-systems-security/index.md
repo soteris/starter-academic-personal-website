@@ -3,7 +3,7 @@ title: Mobile Devices and IoT Systems Security
 date: 2021-03-06T16:11:57.051Z
 draft: false
 featured: false
-external_link: 
+external_link: false
 image:
   filename: featured
   focal_point: Smart
