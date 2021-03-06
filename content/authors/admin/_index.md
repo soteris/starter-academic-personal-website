@@ -70,8 +70,6 @@ email: "s.demetriou@imperial.ac.uk"
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a Lecturer (Assistant Professor) at Imperial College London and the Director of the [Applications, Platforms, and Systems Security (apss) lab](https://apss.doc.ic.ac.uk/). My research focuses on Security and Privacy issues related to mobile and cyber-physical systems. I have been studying side-channel and confused deputy attacks on the Android OS and its privacy threats from mobile advertising; IoT vulnerabilities in smart-home environments and vulnerabilities of machine learning mdels utilized in connected and autonomous vehicles. I've worked in strengthening the security of mobile and CPS systems designing access control schemes, anomaly detection and trusted computing mechanisms among others.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "/uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
