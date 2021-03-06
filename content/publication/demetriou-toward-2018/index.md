@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-06T19:24:19.533849Z'
+publishDate: '2021-03-06T19:32:02.590528Z'
 publication_types:
 - '1'
 abstract: Data is being created at an increasing rate by sources like the IoT devices,

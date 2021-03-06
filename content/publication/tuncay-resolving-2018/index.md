@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-06T19:24:19.398595Z'
+publishDate: '2021-03-06T19:32:02.456116Z'
 publication_types:
 - '1'
 abstract: Android leverages a set of system permissions to protect platform resources.

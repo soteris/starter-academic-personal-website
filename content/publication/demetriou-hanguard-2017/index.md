@@ -39,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-06T19:24:19.942471Z'
+publishDate: '2021-03-06T19:32:03.004072Z'
 publication_types:
 - '1'
 abstract: 'A new development of smart-home systems is to use mobile apps to control

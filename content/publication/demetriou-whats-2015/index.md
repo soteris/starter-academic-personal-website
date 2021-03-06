@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-06T19:24:20.501809Z'
+publishDate: '2021-03-06T19:32:03.553523Z'
 publication_types:
 - '1'
 abstract: 'The pervasiveness of security-critical external resources (e.g accessories,

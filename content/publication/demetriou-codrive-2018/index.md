@@ -48,7 +48,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-06T19:24:19.259467Z'
+publishDate: '2021-03-06T19:32:02.314858Z'
 publication_types:
 - '1'
 abstract: An increasing number of depth sensors and surrounding-aware cameras are

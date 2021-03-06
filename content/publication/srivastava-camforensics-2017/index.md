@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-06T19:24:19.668370Z'
+publishDate: '2021-03-06T19:32:02.725851Z'
 publication_types:
 - '1'
 abstract: Many mobile apps, including augmented-reality games, bar-code readers, and

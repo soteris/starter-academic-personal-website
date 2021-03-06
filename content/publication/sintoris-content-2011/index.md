@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-06T19:24:21.048536Z'
+publishDate: '2021-03-06T19:32:04.097816Z'
 publication_types:
 - '1'
 abstract: In this paper we discuss the use of social media as tools for collaboratively
