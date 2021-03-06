@@ -5,7 +5,7 @@ summary: Study of novel sensor fusion solutions for outdoor positioning and
   security for AI in connected and autonomous vehicles.
 draft: false
 featured: false
-external_link: https://soterisdemetriou.com/
+external_link: false
 image:
   filename: featured
   focal_point: Smart
