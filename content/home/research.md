@@ -38,7 +38,7 @@ design:
 
   # Toggle between the various page layout types.
   #   1 = List
-  #   2 = Compact
+  #   2 = Compact (default)
   #   3 = Card
   #   5 = Showcase
   view: 2
