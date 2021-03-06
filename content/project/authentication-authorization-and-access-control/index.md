@@ -1,8 +1,7 @@
 ---
 title: Authentication, Authorization and Access Control
 date: 2021-03-06T16:08:06.590Z
-summary: Study of effective and efficient authentication, authorization and
-  access control mechanisms.
+summary: ""
 draft: false
 featured: false
 external_link: false
