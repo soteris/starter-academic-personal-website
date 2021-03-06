@@ -26,13 +26,13 @@ interests:
 education:
   courses:
   - course: PhD in Computer Science
-    institution: University of Illinois at Urbana-Champaign
+    institution: University of Illinois at Urbana-Champaign (USA)
     year: 2018
   - course: MSc in Computer Science
-    institution: University of Illinois at Urbana-Champaign
+    institution: University of Illinois at Urbana-Champaign (USA)
     year: 2014
   - course: BSc/MEng in Electrical and Computer Engineering
-    institution: University of Patras, Greece
+    institution: University of Patras (Greece)
     year: 2010
 
 # Social/Academic Networking
@@ -74,4 +74,4 @@ Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV__Public_.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/CV__Public_.pdf" "newtab" >}}resumé{{< /staticref >}}.
