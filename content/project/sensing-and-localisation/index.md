@@ -1,6 +1,8 @@
 ---
 title: Sensing and Localisation
 date: 2021-03-06T16:13:17.886Z
+summary: Study of novel sensor fusion solutions for outdoor positioning and
+  security for AI in connected and autonomous vehicles.
 draft: false
 featured: false
 external_link: https://soterisdemetriou.com/
