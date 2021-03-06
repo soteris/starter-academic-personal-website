@@ -1,8 +1,7 @@
 ---
 title: Mobile Devices and IoT Systems Security
 date: 2021-03-06T16:11:57.051Z
-summary: Study of adversarial capabilities and development of novel defense
-  strategies for smartphone and IoT systems.
+summary: ""
 draft: false
 featured: false
 external_link: false
