@@ -40,7 +40,6 @@ permalinks:
   event: '/talk/:slug/'
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
-  projects: '/research/:slug/'
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
