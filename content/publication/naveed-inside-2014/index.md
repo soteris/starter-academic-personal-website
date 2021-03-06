@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-06T19:19:42.449941Z'
+publishDate: '2021-03-06T19:24:20.641284Z'
 publication_types:
 - '1'
 abstract: 'Today’s smartphones can be armed with many types of external devices, such

@@ -54,7 +54,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-06T19:19:41.625789Z'
+publishDate: '2021-03-06T19:24:19.803934Z'
 publication_types:
 - '1'
 abstract: 'Android allows developers to build apps with app installation functionality

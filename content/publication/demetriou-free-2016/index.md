@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-06T19:19:42.042409Z'
+publishDate: '2021-03-06T19:24:20.225835Z'
 publication_types:
 - '1'
 abstract: 'Many studies focused on detecting and measuring the security and privacy

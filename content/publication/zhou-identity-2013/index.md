@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-06T19:19:42.583863Z'
+publishDate: '2021-03-06T19:24:20.775917Z'
 publication_types:
 - '1'
 abstract: "The design of Android is based on a set of unprotected shared resources,\

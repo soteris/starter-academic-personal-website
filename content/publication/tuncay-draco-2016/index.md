@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-06T19:19:42.174710Z'
+publishDate: '2021-03-06T19:24:20.362479Z'
 publication_types:
 - '1'
 abstract: In-app embedded browsers are commonly used by app developers to display

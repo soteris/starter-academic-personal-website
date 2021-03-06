@@ -1,25 +1,21 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: External resource control of mobile devices
+title: Determination of a next state of multiple IoT devices within an environment
 subtitle: ''
 summary: ''
 authors:
-- Xiaofeng Wang
-- Kan Yuan
-- Xiaoyong Zhou
-- Muhammad NAVEED
 - Soteris Demetriou
-- Carl Gunter
+- Puneet Jain
 tags:
-- '"base"'
-- '"channel"'
-- '"channels"'
-- '"policy"'
-- '"security"'
+- '"environment"'
+- '"iot"'
+- '"iot devices"'
+- '"state"'
+- '"transition"'
 categories: []
-date: '2020-06-01'
-lastmod: 2021-03-06T18:52:31Z
+date: '2020-09-01'
+lastmod: 2021-03-06T19:24:21Z
 featured: false
 draft: false
 
@@ -37,10 +33,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-06T19:19:40.678490Z'
+publishDate: '2021-03-06T19:24:21.182020Z'
 publication_types:
 - '8'
 abstract: ''
 publication: ''
-url_pdf: https://patents.google.com/patent/US10685142B2/en
+url_pdf: https://patents.google.com/patent/US10778516B2/en
 ---
