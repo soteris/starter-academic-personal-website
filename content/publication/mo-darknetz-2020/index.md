@@ -51,7 +51,7 @@ abstract: We present DarkneTZ, a framework that uses an edge device's Trusted Ex
   with only 3% performance overhead. When fully utilizing the TEE, DarkneTZ provides
   model protections with up to 10% overhead.
 publication: '*Proceedings of the 18th International Conference on Mobile Systems,
-  Applications, and Services*. *Acceptance rate=19.4% (34/175)*'
+  Applications, and Services (MobiSys '20)*. *Acceptance rate=19.4% (34/175)*'
 url_pdf: https://doi.org/10.1145/3386901.3388946
 doi: 10.1145/3386901.3388946
 links:
