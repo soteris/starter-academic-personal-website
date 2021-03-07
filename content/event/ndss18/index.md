@@ -29,7 +29,6 @@ publishDate: 2017-01-01T00:00:00Z
 tags: []
 projects:
   - authentication-authorization-and-access-control
-  - mobile-devices-and-iot-systems-security
 image:
   caption: ""
   focal_point: Right
