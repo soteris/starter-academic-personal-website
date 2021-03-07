@@ -62,7 +62,10 @@ abstract: 'A new development of smart-home systems is to use mobile apps to cont
   market share) and a popular router. Our study shows that HanGuard is both efficient
   and effective in practice.'
 publication: '*Proceedings of the 10th ACM Conference on Security and Privacy in Wireless
-  and Mobile Networks*'
+  and Mobile Networks (ACM WiSec '17)*. *Acceptance rate=32.9% (28/85)*'
 url_pdf: https://doi.org/10.1145/3098243.3098251
 doi: 10.1145/3098243.3098251
+links:
+  - name: 'Slides'
+  - url: 'https://www.soterisdemetriou.com/publication/demetriou-hanguard-2017/HanGuard_WiSec_Presentation_public.pdf'
 ---
