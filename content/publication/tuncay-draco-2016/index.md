@@ -65,7 +65,7 @@ abstract: In-app embedded browsers are commonly used by app developers to displa
   Our evaluation of the the Draco runtime system shows that Draco incurs negligible
   overhead, which is in the order of microseconds.
 publication: '*Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications
-  Security*'
+  Security (ACM CCS '16)*. *Acceptance rate=16.5% (137/831)*'
 url_pdf: https://doi.org/10.1145/2976749.2978322
 doi: 10.1145/2976749.2978322
 ---
