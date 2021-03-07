@@ -45,6 +45,6 @@ abstract: 'In this paper we discuss how location-based mobile games can be desig
   an increasing number of layers of digital information in which a new generation
   of city games are played.'
   
-publication: "*Interaction Design and Architecture(s) Journal - IxD&A, N. 16, 2013, pp. 47-64.*"
-url_pdf: "http://www.mifav.uniroma2.it/inevent/events/idea2010/doc/16_5.pdf"
+publication: '*Interaction Design and Architecture(s) Journal - IxD&A, N. 16, 2013, pp. 47-64.*'
+url_pdf: http://www.mifav.uniroma2.it/inevent/events/idea2010/doc/16_5.pdf
 ---
