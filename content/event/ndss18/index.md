@@ -1,13 +1,12 @@
 ---
-abstract: Recorded presentation of CoDrive, a solution for improving outdoor
-  positioning errors. This work was published at IEEE INFOCOM 2018.
+abstract: Presenting our work at NDSS 2018.
 slides: ""
 url_pdf: ""
-summary: An example talk using Wowchemy's Markdown slides feature.
-title: Presenting our work at NDSS 2018
+summary: CUSPER Presentation at NDSS 2018
+title: 
 location: "NDSS 2018 "
-date: 2018-02-18T23:00:00.000Z
-date_end: 2018-02-21T23:00:00.000Z
+date: 2018-02-18
+date_end: 2018-02-21
 all_day: false
 event: NDSS 2018
 event_url: https://infocom2018.ieee-infocom.org/program/main-technical-program
