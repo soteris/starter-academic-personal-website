@@ -61,4 +61,4 @@ links:
 ---
 
 ### :bulb: Patent(s)
-{{< cite page="/publication/wang-external-2020" view="4" >}}
+> {{< cite page="/publication/wang-external-2020" view="4" >}}
