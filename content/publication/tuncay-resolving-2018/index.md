@@ -56,7 +56,7 @@ url_pdf: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_08-4
 doi: 10.14722/ndss.2018.23210
 links:
   - name: Slides
-    url: 'slides.pdf'
+    url: 'ndss2018_release_slides.pdf'
   - name: Presentation Video
     url: 'https://www.youtube.com/watch?v=9TFAYgUcsk8'
   - name: Source Code (Formal Model)
