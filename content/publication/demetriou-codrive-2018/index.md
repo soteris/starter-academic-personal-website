@@ -8,7 +8,7 @@ authors:
   - P. Jain
   - K. Kim
 doi: 10.1109/INFOCOM.2018.8486281
-publication: "*IEEE Conference on Computer Communications (IEEE INFOCOM '18)* - *Acceptance rate=19.2% (309/1606)*"
+publication: "*IEEE Conference on Computer Communications (IEEE INFOCOM ''18)* - *Acceptance rate=19.2% (309/1606)*"
 abstract: An increasing number of depth sensors and surrounding-aware cameras
   are being installed in the new generation of cars. For example, Tesla Motors
   uses a forward radar, a front-facing camera, and multiple ultrasonic sensors
