@@ -78,16 +78,16 @@ I am a Lecturer (Assistant Professor) at Imperial College London and the Directo
   <h4>&nbsp;:newspaper_roll:&nbsp; Latest News</h4>
 
   <ul>
-•	Award (Feb 25th, 2021):  Our short paper titled "Object Removal Attacks on LiDAR-based 3D Object Detectors" was a Runner-Up for the best short paper award at the Third International Workshop on Automotive and Autonomous Vehicle Security (AutoSec) - co=located with NDSS '21.
-•	Student Travel Grants (Feb 18th, 2021): Two of our PhD students, Chengzeng (Charles) You and Anastasios Lepipas, have been awarded a Student Travel Grant for NDSS 2021. Well Done!
-•	Publication (Feb 2nd, 2021): Our short paper titled "Object Removal Attacks on LiDAR-based 3D Object Detectors" has been accepted at the Third International Workshop on Automotive and Autonomous Vehicle Security (AutoSec) - co=located with NDSS '21.
-•	Grant (July 15th, 2020): We have been awarded an ISST Champions Fund by the Institute for Security Science and Technology at Imperial College London which will help us measure human smartphone security attention and behavior.
-•	Comment (April 14th, 2020): Read our comment on smartphone-assisted contact tracing here.
-•	Publication (Mar 7th, 2020): Our paper titled “DarkneTZ: Toward Model Privacy at the Edge using Trusted Execution Environments’” has been accepted at ACM MobiSys 2020.
-•	Conference Session Chair (Nov, 2019): I was invited to serve as a session chair  at the Cyberphysical Security session of the 26th ACM Conference on Computer and Communications Security (ACM CCS 2019). CCS is the flagship security conference of ACM.
-•	Conference OC (May, 2019): I was invited to serve at the Organisation Committee (Finance Co-Chair) of the 26th Annual International Conference on Mobile Computing and Networking (ACM Mobicom).
-•	Publication (Feb 19th, 2019): Our paper titled “BEEER: Distributed Record and Replay for Medical Devices in Hospital Operating Rooms’” has been accepted at HotSoS 2019.
-•	Conference PC (Dec, 2018): I was invited to serve at the Program Committee of the 26th ACM Conference on Computer and Communications Security (ACM CCS 2019). CCS is the flagship security conference of ACM.
+    <li>Award (Feb 25th, 2021):  Our short paper titled "Object Removal Attacks on LiDAR-based 3D Object Detectors" was a Runner-Up for the best short paper award at the Third International Workshop on Automotive and Autonomous Vehicle Security (AutoSec) - co=located with NDSS '21.</li>
+    <li>Student Travel Grants (Feb 18th, 2021): Two of our PhD students, Chengzeng (Charles) You and Anastasios Lepipas, have been awarded a Student Travel Grant for NDSS 2021. Well Done! :clap:</li>
+    <li>Publication (Feb 2nd, 2021): Our short paper titled "Object Removal Attacks on LiDAR-based 3D Object Detectors" has been accepted at the Third International Workshop on Automotive and Autonomous Vehicle Security (AutoSec) - co=located with NDSS '21.</li>
+    <li>Grant (July 15th, 2020): We have been awarded an ISST Champions Fund by the Institute for Security Science and Technology at Imperial College London which will help us measure human smartphone security attention and behavior.</li>
+    <li>Comment (April 14th, 2020): Read our comment on smartphone-assisted contact tracing here.</li>
+    <li>Publication (Mar 7th, 2020): Our paper titled “DarkneTZ: Toward Model Privacy at the Edge using Trusted Execution Environments’” has been accepted at ACM MobiSys 2020.</li>
+    <li>Conference Session Chair (Nov, 2019): I was invited to serve as a session chair  at the Cyberphysical Security session of the 26th ACM Conference on Computer and Communications Security (ACM CCS 2019). CCS is the flagship security conference of ACM.</li>
+    <li>Conference OC (May, 2019): I was invited to serve at the Organisation Committee (Finance Co-Chair) of the 26th Annual International Conference on Mobile Computing and Networking (ACM Mobicom).</li>
+    <li>Publication (Feb 19th, 2019): Our paper titled “BEEER: Distributed Record and Replay for Medical Devices in Hospital Operating Rooms’” has been accepted at HotSoS 2019.</li>
+    <li>Conference PC (Dec, 2018): I was invited to serve at the Program Committee of the 26th ACM Conference on Computer and Communications Security (ACM CCS 2019). CCS is the flagship security conference of ACM.</li>
 •	News Article (September 28th, 2018): “Getting smart on smartphone cyber security”, Duncan Swinscow-Hall, Imperial College London, (link to article).
 •	New Appointment (September 1st, 2018): Appointed as a Lecturer (Assistant Professor) at Imperial College London.
 •	Best-in-Session Presentation Award (May 20th, 2018): I was awarded a best-in-session presentation award at IEEE INFOCOM 2018.
