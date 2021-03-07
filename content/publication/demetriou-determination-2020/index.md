@@ -37,6 +37,6 @@ publishDate: '2021-03-06T19:32:04.233750Z'
 publication_types:
 - '8'
 abstract: ''
-publication: ''
+publication: 'US Patent: US10778516B2'
 url_pdf: https://patents.google.com/patent/US10778516B2/en
 ---
