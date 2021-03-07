@@ -34,9 +34,9 @@ coordinates:
   latitude: '51.49902'
   longitude: '-0.17911'
 directions: Enter ACEX Building and take the stairs to Office 353 on Floor 3
-office_hours:
-  - 'Monday 4:00pm to 7:00pm (UK)'
-appointment_url: 'https://calendly.com/soteris-demetriou/30min?month=2021-03'
+# office_hours:
+#  - 'Monday 4:00pm to 7:00pm (UK)'
+# appointment_url: 'https://calendly.com/soteris-demetriou/30min?month=2021-03'
 contact_links:
   - icon: twitter
     icon_pack: fab
