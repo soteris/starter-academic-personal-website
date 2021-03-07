@@ -60,8 +60,11 @@ summary: "Acceptance rate=19.2% (309/1606); Best in-session presentation award i
 lastmod: 2021-03-06T18:52:32.000Z
 date: 2018-04-01
 publishDate: 2021-03-06T19:32:02.314858Z
+# url_code = ""
+# url_dataset = ""
+# url_project = ""
 url_slides: "codriveSlides.pdf"
-url_talk: "https://www.youtube.com/watch?v=jAuJFiYq2bQ"
+url_video: "https://www.youtube.com/watch?v=jAuJFiYq2bQ"
 ---
 > :trophy: Best in-session presentation award in Vehicular Networks session
 > [Slides]{codriveSlides.pdf}
