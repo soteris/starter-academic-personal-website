@@ -70,4 +70,6 @@ links:
     url: 'https://www.soterisdemetriou.com/publication/demetriou-hanguard-2017/HanGuard_WiSec_Presentation_public.pdf'
   - name: 'Demo Video'
     url: 'https://www.youtube.com/watch?v=AuRP3IUdeuc'
+  - name: 'Project Website'
+    url: 'https://sites.google.com/site/projecthanguard/home'
 ---
