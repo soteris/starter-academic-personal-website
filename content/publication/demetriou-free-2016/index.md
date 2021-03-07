@@ -54,6 +54,6 @@ links:
     url: 'https://www.soterisdemetriou.com/publication/demetriou-free-2016/ndss2016-slides.pdf'
   - name: 'Source Code'
     url: 'https://github.com/soteris/android-advertising-pluto'
-  - name: 'Project Website'
+  - name: 'Website'
     url: 'https://sites.google.com/site/advertisingpluto/home'
 ---
