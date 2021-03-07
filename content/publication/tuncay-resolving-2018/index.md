@@ -64,6 +64,7 @@ links:
   - name: 'Project Website'
     url: 'https://sites.google.com/view/cusper-custom-permissions/home'
 ---
+### :trophy: Awards
 > :trophy: Distinguished Paper Award at NDSS '18
 
 > :checkered_flag: Finalist at the Cybersecurity Awareness Worldwide (CSAW) applied research competition
