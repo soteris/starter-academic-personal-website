@@ -65,7 +65,7 @@ links:
     url: https://www.youtube.com/watch?v=jAuJFiYq2bQ
 categories: []
 projects:
-  - sensing-and-localisation
+  - security-in-machine-learning-and-cps
 publishDate: 2021-03-06T19:32:02.314Z
 ---
 ### :trophy: Award(s)
