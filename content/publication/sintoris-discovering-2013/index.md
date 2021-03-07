@@ -46,4 +46,5 @@ abstract: 'In this paper we discuss how location-based mobile games can be desig
   of city games are played.'
   
 publication: "*Interaction Design and Architecture(s) Journal - IxD&A, N. 16, 2013, pp. 47-64.*"
+
 ---
