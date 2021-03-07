@@ -45,6 +45,6 @@ abstract: LiDARs play a critical role in Autonomous Vehicles’ (AVs) perception
   point selection strategy show that the attack is effective in degrading the performance
   of commonly used 3D object detection models.
 publication: '*Third International Workshop on Automotive and Autonomous Vehicle Security
-  (AutoSec) - co-located with NDSS*'
+  (AutoSec) - co-located with NDSS ''21*'
 url_pdf: https://www.ndss-symposium.org/ndss-paper/auto-draft-112/
 ---
