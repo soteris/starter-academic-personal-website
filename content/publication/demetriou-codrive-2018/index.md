@@ -65,8 +65,8 @@ publishDate: 2021-03-06T19:32:02.314858Z
 # url_project = ""
 # url_slides: "slides.pdf"
 [[url_custom]]
-name = "Slides"
-url = "slides.pdf"
+  name = "Slides"
+  url = "https://www.soterisdemetriou.com/publication/demetriou-codrive-2018/slides.pdf"
 url_video: "https://www.youtube.com/watch?v=jAuJFiYq2bQ"
 ---
 > :trophy: Best in-session presentation award in Vehicular Networks session
