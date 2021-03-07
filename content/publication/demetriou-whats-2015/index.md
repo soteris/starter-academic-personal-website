@@ -60,5 +60,5 @@ links:
     url: 'https://sites.google.com/site/seacatchannelcontrol/home'
 ---
 
-### Related
+### :bulb: Patent(s)
 {{< cite page="/publication/wang-external-2020" view="4" >}}
