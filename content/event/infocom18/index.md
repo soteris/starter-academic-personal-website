@@ -1,10 +1,9 @@
 ---
-abstract: Recorded presentation of CoDrive, a solution for improving outdoor
-  positioning errors. This work was published at IEEE INFOCOM 2018.
+abstract: 
 slides: ""
 url_pdf: ""
-summary: An example talk using Wowchemy's Markdown slides feature.
-title: CoDrive Presentation at IEEE INFOCOM 2018
+summary:
+title: Presenting CoDrive (IEEE INFOCOM 2018)   
 location: "IEEE INFOCOM "
 date: 2018-04-14T23:00:00.000Z
 date_end: 2018-04-18T23:00:00.000Z
@@ -22,21 +21,24 @@ address:
   postcode: "94305"
   country: United States
 links:
-  - url: https://www.youtube.com/watch?v=jAuJFiYq2bQ
+  - name: Slides
+    url: 'https://www.soterisdemetriou.com/publication/demetriou-codrive-2018/slides.pdf'
+  - name: Presentation Video
+    url: https://www.youtube.com/watch?v=jAuJFiYq2bQ
     icon: fa-youtube
     icon_pack: fab
-    name: YouTube Video
+    
 publishDate: 2017-01-01T00:00:00Z
 tags: []
-projects:
-  - sensing-and-localisation
+# projects:
+#  - sensing-and-localisation
 image:
   caption: ""
   focal_point: Right
 url_code: ""
 ---
-This is a recent presentation of our work published at IEEE INFOCOM 2018. A version of this presentation won the *Best In-Session Presentation Award* for the "Vehicular Networks" session at the conference.
+{{< youtube jAuJFiYq2bQ >}}
 
 > [Slides](https://www.soterisdemetriou.com/publication/demetriou-codrive-2018/slides.pdf)
->
-> :trophy: Best In-Session Presentation Award
+
+> :trophy: **Best In-Session Presentation Award** in the "Vehicular Networks" session at IEEE INFOCOM 2018.
