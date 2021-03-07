@@ -47,4 +47,11 @@ abstract: 'Today’s smartphones can be armed with many types of external device
 publication: '*Proceedings of the 21st Network and Distributed System Security Symposium (NDSS '14)*. *Acceptance rate=18.6% (55/295);*'
 url_pdf: https://www.ndss-symposium.org/ndss2014/programme/inside-job-understanding-and-mitigating-threat-external-device-mis-bonding-android/
 doi: 10.14722/ndss.2014.23097
+links:
+  - name: 'Slides'
+    url: 'https://soterisdemetriou.netlify.app/publication/naveed-inside-2014/ndss2014-slides.pdf'
+  - name: 'Source Code'
+    url: 'https://github.com/cryptoonline/InsideJob'
+  - name: 'Project Website'
+    url: 'https://sites.google.com/site/edmbdroid/'
 ---
