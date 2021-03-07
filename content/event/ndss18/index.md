@@ -3,7 +3,7 @@ abstract:
 slides: ""
 url_pdf: ""
 summary: 
-title: Video Presentation of our work at NDSS 2018
+title: Presenting our work at NDSS 2018
 location: "NDSS 2018 "
 date: 2018-02-18
 date_end: 2018-02-21
@@ -44,9 +44,9 @@ url_code: ""
 
 {{< youtube 9TFAYgUcsk8 >}}
 
-> :trophy: Distinguished Paper Award. 
+> :trophy: Our paper received a distinguished paper award. 
 
-> :checkered_flag: Finalist at the Cybersecurity Awareness Worldwide (CSAW) applied research competition.
+> :checkered_flag: Our paper was a finalist at the Cybersecurity Awareness Worldwide (CSAW) applied research competition.
 
 > {{< cite page="/publication/tuncay-resolving-2018" view="4" >}}
 
