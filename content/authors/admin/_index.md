@@ -74,9 +74,8 @@ I am a Lecturer (Assistant Professor) at Imperial College London and the Directo
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "/uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-<div style="overflow: auto; height:150pt; width:100%; border: 1px solid #795548">
-  <h4>&nbsp;:newspaper_roll:&nbsp; Latest News</h4>
-
+<h4>&nbsp;:newspaper_roll:&nbsp; Latest News</h4>
+<div style="overflow: auto; height:150pt; width:100%; border-left: 1px solid #795548; border-right: 1px solid #795548; border-bottom: 1px solid #795548">
   <ul>
     <li>Award (Feb 25th, 2021):  Our short paper titled "Object Removal Attacks on LiDAR-based 3D Object Detectors" was a Runner-Up for the best short paper award at the Third International Workshop on Automotive and Autonomous Vehicle Security (AutoSec) - co=located with NDSS '21.</li>
     <li>Student Travel Grants (Feb 18th, 2021): Two of our PhD students, Chengzeng (Charles) You and Anastasios Lepipas, have been awarded a Student Travel Grant for NDSS 2021. Well Done! :clap:</li>
@@ -88,21 +87,21 @@ I am a Lecturer (Assistant Professor) at Imperial College London and the Directo
     <li>Conference OC (May, 2019): I was invited to serve at the Organisation Committee (Finance Co-Chair) of the 26th Annual International Conference on Mobile Computing and Networking (ACM Mobicom).</li>
     <li>Publication (Feb 19th, 2019): Our paper titled “BEEER: Distributed Record and Replay for Medical Devices in Hospital Operating Rooms’” has been accepted at HotSoS 2019.</li>
     <li>Conference PC (Dec, 2018): I was invited to serve at the Program Committee of the 26th ACM Conference on Computer and Communications Security (ACM CCS 2019). CCS is the flagship security conference of ACM.</li>
-•	News Article (September 28th, 2018): “Getting smart on smartphone cyber security”, Duncan Swinscow-Hall, Imperial College London, (link to article).
-•	New Appointment (September 1st, 2018): Appointed as a Lecturer (Assistant Professor) at Imperial College London.
-•	Best-in-Session Presentation Award (May 20th, 2018): I was awarded a best-in-session presentation award at IEEE INFOCOM 2018.
-•	Travel Award (March 27th, 2018): I was awarded a conference travel grant by the Graduate College at the University of Illinois at Urbana-Champaign to attend IEEE INFOCOM 2018 and present our work.
-•	Distinguished Paper Award (Feb 21st, 2018): Our paper titled “Resolving the Predicament of Android Custom Permissions” has received a Distinguished Paper Award at NDSS 2018.
-•	Publication (Nov 27th, 2017): Our paper titled “CoDrive: Improving Automobile Positioning via Collaborative Driving’” has been accepted at IEEE INFOCOM.
-•	Publication (Oct 26th, 2017): Our paper titled “Resolving the Predicament of Android Custom Permissions” has been accepted at NDSS.
-•	Publication (July 13th, 2017): Our paper titled “CamForensics: Understanding Visual Privacy Leaks in the Wild.” has been accepted at SenSys.
-•	Award (May, 2017): I was selected for sponsorship and travel support to the 5th Heidelberg Laureate Forum (HLF) by the Oak Ridge Associated Universities (ORAU) and the National Science Foundation (NSF).
-•	Publication (May 2nd, 2017): Our paper titled “HanGuard: SDN-driven protection of smart-home WiFi devices from malicious mobile apps.” has been accepted at WiSec.
-•	Award (April 12th, 2017): I was selected as a young researcher in the fields of Mathematics and Computer Science to participate in the Heidelberg Laureate Forum.
-•	Award (April 6th, 2017): I was selected to participate in the French-American Doctoral Exchange (FADex) program focused in Cybersecurity.
-•	Publication (March 6th, 2017): Our paper titled “Ghost Installer in the Shadow: Security Analysis of App Installation on Android” has been accepted at DSN.
-•	Award (August 2nd, 2016): I have been awarded the Best in Class Award during the 2016 Intern Project Fair at Hewlett-Packard Enterprise.
-•	Publication (July 22nd, 2016): Our paper titled “Draco: Uniform and Fine-grained Control of Web Code Access on Android” has been accepted at CCS.
+    <li>News Article (September 28th, 2018): “Getting smart on smartphone cyber security”, Duncan Swinscow-Hall, Imperial College London, (link to article).</li>
+    <li>New Appointment (September 1st, 2018): Appointed as a Lecturer (Assistant Professor) at Imperial College London.</li>
+    <li>Best-in-Session Presentation Award (May 20th, 2018): I was awarded a best-in-session presentation award at IEEE INFOCOM 2018.</li>
+    <li>Travel Award (March 27th, 2018): I was awarded a conference travel grant by the Graduate College at the University of Illinois at Urbana-Champaign to attend IEEE INFOCOM 2018 and present our work.</li>
+    <li>Distinguished Paper Award (Feb 21st, 2018): Our paper titled “Resolving the Predicament of Android Custom Permissions” has received a Distinguished Paper Award at NDSS 2018.</li>
+    <li>Publication (Nov 27th, 2017): Our paper titled “CoDrive: Improving Automobile Positioning via Collaborative Driving’” has been accepted at IEEE INFOCOM.</li>
+    <li>Publication (Oct 26th, 2017): Our paper titled “Resolving the Predicament of Android Custom Permissions” has been accepted at NDSS.</li>
+    <li>Publication (July 13th, 2017): Our paper titled “CamForensics: Understanding Visual Privacy Leaks in the Wild.” has been accepted at SenSys.</li>
+    <li>Award (May, 2017): I was selected for sponsorship and travel support to the 5th Heidelberg Laureate Forum (HLF) by the Oak Ridge Associated Universities (ORAU) and the National Science Foundation (NSF).</li>
+    <li>Publication (May 2nd, 2017): Our paper titled “HanGuard: SDN-driven protection of smart-home WiFi devices from malicious mobile apps.” has been accepted at WiSec.</li>
+    <li>Award (April 12th, 2017): I was selected as a young researcher in the fields of Mathematics and Computer Science to participate in the Heidelberg Laureate Forum.</li>
+    <li>Award (April 6th, 2017): I was selected to participate in the French-American Doctoral Exchange (FADex) program focused in Cybersecurity.</li>
+    <li>Publication (March 6th, 2017): Our paper titled “Ghost Installer in the Shadow: Security Analysis of App Installation on Android” has been accepted at DSN.</li>
+    <li>Award (August 2nd, 2016): I have been awarded the Best in Class Award during the 2016 Intern Project Fair at Hewlett-Packard Enterprise.</li>
+    <li>Publication (July 22nd, 2016): Our paper titled “Draco: Uniform and Fine-grained Control of Web Code Access on Android” has been accepted at CCS.</li>
   </ul>
 </div>
 
