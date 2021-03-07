@@ -66,4 +66,4 @@ links:
 ---
 > :trophy: Distinguished Paper Award at NDSS '18
 
->:trophy: Finalist at the Cybersecurity Awareness Worldwide (CSAW) applied research competition
+> :checkered_flag: Finalist at the Cybersecurity Awareness Worldwide (CSAW) applied research competition
