@@ -3,7 +3,7 @@ abstract:
 slides: ""
 url_pdf: ""
 summary:
-title: Presenting CoDrive (IEEE INFOCOM 2018)   
+title: Video Preesentation of CoDrive (IEEE INFOCOM 2018)   
 location: "IEEE INFOCOM "
 date: 2018-04-14T23:00:00.000Z
 date_end: 2018-04-18T23:00:00.000Z
@@ -23,7 +23,7 @@ address:
 links:
   - name: Slides
     url: 'https://www.soterisdemetriou.com/publication/demetriou-codrive-2018/slides.pdf'
-  - name: Presentation Video
+  - name: Watch on YouTube
     url: https://www.youtube.com/watch?v=jAuJFiYq2bQ
     icon: fa-youtube
     icon_pack: fab
