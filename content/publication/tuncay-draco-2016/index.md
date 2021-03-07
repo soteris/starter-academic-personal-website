@@ -6,7 +6,7 @@ title: 'Draco: A System for Uniform and Fine-grained Access Control for Web Code
 subtitle: ''
 summary: ''
 authors:
-- Guliz Seray Tuncay
+- Güliz Seray Tuncay
 - Soteris Demetriou
 - Carl A. Gunter
 tags:
