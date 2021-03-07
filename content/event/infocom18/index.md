@@ -15,11 +15,11 @@ authors: []
 url_video: ""
 url_slides: ""
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: "94305"
-  country: United States
+  street: 
+  city: 
+  region: 
+  postcode: ""
+  country: 
 links:
   - name: Slides
     url: 'https://www.soterisdemetriou.com/publication/demetriou-codrive-2018/slides.pdf'
