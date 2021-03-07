@@ -72,5 +72,5 @@ links:
 ---
 > :trophy:  Best in-session presentation award in Vehicular Networks session
 
-### Related
+### :bulb: Patent
 {{< cite page="/publication/jain-determining-2019" view="4" >}}
