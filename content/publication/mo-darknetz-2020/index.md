@@ -34,6 +34,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects:
   - security-in-machine-learning-and-cps
+  - mobile-devices-and-iot-systems-security
 publishDate: '2021-03-06T19:32:01.767990Z'
 publication_types:
 - '1'
