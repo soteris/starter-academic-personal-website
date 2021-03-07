@@ -3,7 +3,7 @@ abstract:
 slides: ""
 url_pdf: ""
 summary:
-title: Video Preesentation of CoDrive (IEEE INFOCOM 2018)   
+title: Video Presentation of CoDrive (IEEE INFOCOM 2018)   
 location: "IEEE INFOCOM "
 date: 2018-04-14T23:00:00.000Z
 date_end: 2018-04-18T23:00:00.000Z
