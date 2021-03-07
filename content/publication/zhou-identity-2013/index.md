@@ -60,7 +60,7 @@ abstract: "The design of Android is based on a set of unprotected shared resourc
   \ we present a mitigation mechanism for achieving a delicate balance between utility\
   \ and privacy of such resources."
 publication: '*Proceedings of the 2013 ACM SIGSAC conference on Computer & communications
-  security (ACM CCS '13)*. *Acceptance rate=19.8% (105/530)*'
+  security (ACM CCS ''13)*. *Acceptance rate=19.8% (105/530)*'
 url_pdf: https://doi.org/10.1145/2508859.2516661
 doi: 10.1145/2508859.2516661
 links:
