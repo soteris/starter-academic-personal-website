@@ -77,7 +77,7 @@ I am a Lecturer (Assistant Professor) at Imperial College London and the Directo
 <h4>&nbsp;:newspaper_roll:&nbsp; Latest News</h4>
 <div style="overflow: auto; height:150pt; width:100%; border-left: 1px solid #795548; border-right: 1px solid #795548; border-bottom: 1px solid #795548">
   <ul>
-    <li>Award (Feb 25th, 2021):  Our short paper titled "Object Removal Attacks on LiDAR-based 3D Object Detectors" was a Runner-Up for the best short paper award at the Third International Workshop on Automotive and Autonomous Vehicle Security (AutoSec) - co=located with NDSS '21.</li>
+    <li>:2nd_place_medal: **Award (Feb 25th, 2021)**:  Our short paper titled "Object Removal Attacks on LiDAR-based 3D Object Detectors" was a Runner-Up for the best short paper award at the Third International Workshop on Automotive and Autonomous Vehicle Security (AutoSec) - co-located with NDSS '21.</li>
     <li>Student Travel Grants (Feb 18th, 2021): Two of our PhD students, Chengzeng (Charles) You and Anastasios Lepipas, have been awarded a Student Travel Grant for NDSS 2021. Well Done! :clap:</li>
     <li>Publication (Feb 2nd, 2021): Our short paper titled "Object Removal Attacks on LiDAR-based 3D Object Detectors" has been accepted at the Third International Workshop on Automotive and Autonomous Vehicle Security (AutoSec) - co=located with NDSS '21.</li>
     <li>Grant (July 15th, 2020): We have been awarded an ISST Champions Fund by the Institute for Security Science and Technology at Imperial College London which will help us measure human smartphone security attention and behavior.</li>
