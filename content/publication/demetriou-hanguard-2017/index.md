@@ -38,7 +38,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["authentication-authorization-and-access-control"]
 publishDate: '2021-03-06T19:32:03.004072Z'
 publication_types:
 - '1'
@@ -70,6 +70,6 @@ links:
     url: 'https://www.soterisdemetriou.com/publication/demetriou-hanguard-2017/HanGuard_WiSec_Presentation_public.pdf'
   - name: 'Demo Video'
     url: 'https://www.youtube.com/watch?v=AuRP3IUdeuc'
-  - name: 'Project Website'
+  - name: 'Website'
     url: 'https://sites.google.com/site/projecthanguard/home'
 ---
