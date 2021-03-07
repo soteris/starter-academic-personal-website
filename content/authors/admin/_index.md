@@ -76,6 +76,9 @@ I am a Lecturer (Assistant Professor) at Imperial College London and the Directo
 
 <div style="overflow: auto; height:100%; width:100%;">
 :speaking_head: 
-  * **Test Announcement** test
+
+<ul>
+  <li>test announcement</li>
+</ul>
 </div>
 
