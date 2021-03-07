@@ -24,7 +24,7 @@ address:
 links:
   - url: https://www.youtube.com/watch?v=jAuJFiYq2bQ
     icon: fa-youtube
-    icon_pack: null
+    icon_pack: fab
     name: YouTube Video
 publishDate: 2017-01-01T00:00:00Z
 tags: []
