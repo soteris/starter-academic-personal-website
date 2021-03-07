@@ -36,6 +36,8 @@ url_code: ""
 ---
 This is a presentation of our work published at IEEE INFOCOM 2018. A version of this presentation won the *Best In-Session Presentation Award* for the "Vehicular Networks" session at the conference.
 
+{{< youtube 9TFAYgUcsk8 >}}
+
 > {{< cite page="/publication/tuncay-resolving-2018" view="4" >}}
 
 > [Slides](https://www.soterisdemetriou.com/publication/tuncay-resolving-2018/ndss2018_release_slides.pdf)
