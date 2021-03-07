@@ -64,6 +64,6 @@ publication: '*Proceedings of the 2013 ACM SIGSAC conference on Computer & commu
 url_pdf: https://doi.org/10.1145/2508859.2516661
 doi: 10.1145/2508859.2516661
 links:
-  - name: 'Project Website'
+  - name: 'Website'
     url: 'https://sites.google.com/site/sidedroid/'
 ---
