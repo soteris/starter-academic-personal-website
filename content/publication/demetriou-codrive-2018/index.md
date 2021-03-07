@@ -29,7 +29,7 @@ abstract: An increasing number of depth sensors and surrounding-aware cameras
   30% reduction in cumulative GPS error for legacy and sensor-rich cars
   respectively, while preserving the shape of the traffic.
 draft: false
-featured: false
+featured: true
 tags:
   - '"automobile positioning"'
   - '"automobiles"'
