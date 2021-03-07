@@ -41,6 +41,6 @@ url_code: ""
 
 > :trophy:  **Best In-Session Presentation Award** in the "Vehicular Networks" session at IEEE INFOCOM 2018.
 
-> [Slides](https://www.soterisdemetriou.com/publication/demetriou-codrive-2018/slides.pdf)
+> :page_facing_up: [Slides](https://www.soterisdemetriou.com/publication/demetriou-codrive-2018/slides.pdf)
  
 > {{< cite page="/publication/demetriou-codrive-2018" view="4" >}}
