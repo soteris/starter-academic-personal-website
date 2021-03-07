@@ -44,10 +44,12 @@ url_code: ""
 
 {{< youtube 9TFAYgUcsk8 >}}
 
-> {{< cite page="/publication/tuncay-resolving-2018" view="4" >}}
+> :trophy: Distinguished Paper Award. 
+
+> :trophy: Finalist at the Cybersecurity Awareness Worldwide (CSAW) applied research competition.
 
 > :page_facing_up: [Slides](https://www.soterisdemetriou.com/publication/tuncay-resolving-2018/ndss2018_release_slides.pdf)
 
-> :trophy: Distinguished Paper Award
+> {{< cite page="/publication/tuncay-resolving-2018" view="4" >}}
 
-> :trophy: Finalist at the Cybersecurity Awareness Worldwide (CSAW) applied research competition
+
