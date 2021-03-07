@@ -29,7 +29,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["authentication-authorization-and-access-control"]
 publishDate: '2021-03-06T19:32:02.456116Z'
 publication_types:
 - '1'
@@ -61,7 +61,7 @@ links:
     url: 'https://www.youtube.com/watch?v=9TFAYgUcsk8'
   - name: Source Code (Formal Model)
     url: 'https://github.com/gulizseray/alloy-android-permissions'
-  - name: 'Project Website'
+  - name: 'Website'
     url: 'https://sites.google.com/view/cusper-custom-permissions/home'
 ---
 ### :trophy: Awards
