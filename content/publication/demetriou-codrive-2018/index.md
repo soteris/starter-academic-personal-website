@@ -51,7 +51,7 @@ tags:
   - '"traffic engineering computing"'
   - '"Visualization"'
 categories: []
-projects: []
+projects: ["sensing-and-localisation"]
 image:
   caption: ""
   focal_point: ""
