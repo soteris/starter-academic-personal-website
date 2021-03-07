@@ -48,7 +48,7 @@ url_code: ""
 
 > :trophy: Finalist at the Cybersecurity Awareness Worldwide (CSAW) applied research competition.
 
-> :page_facing_up: [Slides](https://www.soterisdemetriou.com/publication/tuncay-resolving-2018/ndss2018_release_slides.pdf)
+> :page_facing_up: [Slides.](https://www.soterisdemetriou.com/publication/tuncay-resolving-2018/ndss2018_release_slides.pdf)
 
 > {{< cite page="/publication/tuncay-resolving-2018" view="4" >}}
 
