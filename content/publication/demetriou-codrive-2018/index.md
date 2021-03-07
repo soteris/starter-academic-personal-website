@@ -66,7 +66,7 @@ publishDate: 2021-03-06T19:32:02.314858Z
 # url_slides: "slides.pdf"
 links:
   - name: Slides
-    url: 'slides.pdf'
+    url: 'https://www.soterisdemetriou.com/publication/demetriou-codrive-2018/slides.pdf'
   - name: Presentation Video
     url: 'https://www.youtube.com/watch?v=jAuJFiYq2bQ'
 ---
