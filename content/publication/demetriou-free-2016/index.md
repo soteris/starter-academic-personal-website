@@ -46,7 +46,7 @@ abstract: 'Many studies focused on detecting and measuring the security and priv
   sensitive information (e.g. Google and Facebook account information, geo locations);
   gaining access to ﬁles which the host app stores in its own protection domain; and
   observing user inputs into the host app.'
-publication: '*Proceedings of the 23rd Network and Distributed System Security Symposium (NDSS ''16)*. *Acceptance rate=15.4%(60/389).*'
+publication: '*Proceedings of the 23rd Network and Distributed System Security Symposium (NDSS ''16)*. *Acceptance rate=15.4%(60/389)*'
 url_pdf: https://www.ndss-symposium.org/wp-content/uploads/2017/09/free-for-all-assessing-user-data-exposure-advertising-libraries-android.pdf
 doi: 10.14722/ndss.2016.23082
 links:
