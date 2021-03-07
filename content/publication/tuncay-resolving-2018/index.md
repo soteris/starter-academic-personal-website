@@ -51,7 +51,7 @@ abstract: Android leverages a set of system permissions to protect platform reso
   that can be violated in the current permission model are always satisﬁed in Cusper.
   To demonstrate Cusper’s practicality, we implemented it in the Android platform
   and showed that it is both effective and efﬁcient.
-publication: '*Proceedings 2018 Network and Distributed System Security Symposium (NDSS '18)*. *Acceptance rate=21.4% (71/331)*'
+publication: '*Proceedings 2018 Network and Distributed System Security Symposium (NDSS ''18)*. *Acceptance rate=21.4% (71/331)*'
 url_pdf: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_08-4_Tuncay_paper.pdf
 doi: 10.14722/ndss.2018.23210
 links:
