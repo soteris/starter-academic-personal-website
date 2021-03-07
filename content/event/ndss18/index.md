@@ -1,5 +1,5 @@
 ---
-abstract: Presenting our work at NDSS 2018.
+abstract:
 slides: ""
 url_pdf: ""
 summary: 
