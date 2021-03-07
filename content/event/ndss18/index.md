@@ -2,8 +2,8 @@
 abstract: Presenting our work at NDSS 2018.
 slides: ""
 url_pdf: ""
-summary: CUSPER Presentation at NDSS 2018
-title: 
+summary: 
+title: Presenting our work at NDSS 2018
 location: "NDSS 2018 "
 date: 2018-02-18
 date_end: 2018-02-21
@@ -21,10 +21,17 @@ address:
   postcode: ""
   country: United States
 links:
-  - url: https://www.youtube.com/watch?v=9TFAYgUcsk8
+  - name: Slides
+    url: 'ndss2018_release_slides.pdf'
+  - name: Presentation Video
+    url: https://www.youtube.com/watch?v=9TFAYgUcsk8
     icon: fa-youtube
-    icon_pack: null
-    name: YouTube Video
+    icon_pack: fab
+  - name: Source Code (Formal Model)
+    url: 'https://github.com/gulizseray/alloy-android-permissions'
+  - name: 'Project Website'
+    url: 'https://sites.google.com/view/cusper-custom-permissions/home'
+    
 publishDate: 2017-01-01T00:00:00Z
 tags: []
 projects:
