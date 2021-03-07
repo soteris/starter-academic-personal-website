@@ -50,7 +50,7 @@ abstract: 'The pervasiveness of security-critical external resources (e.g access
   Mandatory Access Control (MAC) are too coarse-grained to protect those resources:
   whoever gets the permission to use a channel is automatically allowed to access
   all resources attached to it.'
-publication: '*Proceedings of the 22nd Network and Distributed System Security Symposium (NDSS '15)*. *Acceptance rate=16.9% (51/302)*'
+publication: '*Proceedings of the 22nd Network and Distributed System Security Symposium (NDSS ''15)*. *Acceptance rate=16.9% (51/302)*'
 url_pdf: https://www.ndss-symposium.org/ndss2015/ndss-2015-programme/whats-your-dongle-and-bank-account-mandatory-and-discretionary-protection-android-external/
 doi: 10.14722/ndss.2015.23098
 links:
