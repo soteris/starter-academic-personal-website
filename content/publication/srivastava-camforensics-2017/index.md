@@ -50,7 +50,7 @@ abstract: Many mobile apps, including augmented-reality games, bar-code readers,
   data. Our extensive user surveys determine what kind of information users expected
   an app to extract. Finally, our results show that camera apps frequently defy users'
   expectations based on their descriptions.
-publication: '*Proceedings of the 15th ACM Conference on Embedded Network Sensor Systems (ACM SenSys '17)*. *Acceptance rate=17.2% (26/151)*'
+publication: '*Proceedings of the 15th ACM Conference on Embedded Network Sensor Systems (ACM SenSys ''17)*. *Acceptance rate=17.2% (26/151)*'
 url_pdf: https://doi.org/10.1145/3131672.3131683
 doi: 10.1145/3131672.3131683
 ---
