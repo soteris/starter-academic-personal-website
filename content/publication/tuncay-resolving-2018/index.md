@@ -5,7 +5,7 @@ title: Resolving the Predicament of Android Custom Permissions
 subtitle: ''
 summary: ''
 authors:
-- Guliz Seray Tuncay
+- Güliz Seray Tuncay
 - Soteris Demetriou
 - Karan Ganju
 - Carl A. Gunter
