@@ -75,10 +75,10 @@ I am a Lecturer (Assistant Professor) at Imperial College London and the Directo
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "/uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
 <div style="overflow: auto; height:100%; width:100%;">
-  :speaking_head: <h4>Announcements</h4>
+  <h4>:speaking_head:Announcements</h4>
 
-<ul>
-  <li>test announcement</li>
-</ul>
+  <ul>
+    <li>test announcement</li>
+  </ul>
 </div>
 
