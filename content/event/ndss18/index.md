@@ -15,10 +15,10 @@ authors: []
 url_video: ""
 url_slides: ""
 address:
-  street: 450 Serra Mall
-  city: Stanford
+  street: 
+  city: San Diego
   region: CA
-  postcode: "94305"
+  postcode: ""
   country: United States
 links:
   - url: https://www.youtube.com/watch?v=9TFAYgUcsk8
@@ -34,13 +34,12 @@ image:
   focal_point: Right
 url_code: ""
 ---
-This is a presentation of our work published at IEEE INFOCOM 2018. A version of this presentation won the *Best In-Session Presentation Award* for the "Vehicular Networks" session at the conference.
 
 {{< youtube 9TFAYgUcsk8 >}}
 
 > {{< cite page="/publication/tuncay-resolving-2018" view="4" >}}
 
-> [Slides](https://www.soterisdemetriou.com/publication/tuncay-resolving-2018/ndss2018_release_slides.pdf)
+> :page_facing_up: [Slides](https://www.soterisdemetriou.com/publication/tuncay-resolving-2018/ndss2018_release_slides.pdf)
 
 > :trophy: Distinguished Paper Award
 
