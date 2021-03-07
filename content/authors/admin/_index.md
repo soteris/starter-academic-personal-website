@@ -18,9 +18,10 @@ bio: I'm interested in the security and privacy of mobile devices and systems at
 
 # Interests to show in About widget
 interests:
-- Systems Security and Privacy
+- Security and Privacy
 - Mobile Computing
 - Cyber-Physical Systems
+- Applied Machine Learning
 
 # Education to show in About widget
 education:
