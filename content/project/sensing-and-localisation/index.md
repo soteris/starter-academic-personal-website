@@ -18,7 +18,7 @@ These advanced capabilities open up a plethora of exciting opportunities for nex
 
 **OUTPUT**
 
-* **Object Removal Attacks on LiDAR-based 3D Object Detectors**. Zhongyuan Hau, Kenneth T Co, Soteris Demetriou, Emil C Lupu, *Third International Workshop on Automotive and Autonomous Vehicle Security (AutoSec) - co-located with NDSS*, 2021, \*Runner-Up for Best Short Paper Award\*
-* [Determining Car Positions](https://patents.google.com/patent/US10380889B2/en). Puneet Jain, *Soteris Demetriou*, Kyu-Han Kim, US 10380889 B2, 2019
-* [CoDrive: Improving Automobile Positioning via Collaborative Driving](https://ieeexplore.ieee.org/document/8486281). *Demetriou, Soteris*; Jain, Puneet; Kim, Kyu-Han. IEEE International Conference on Computer Communications (IEEE INFOCOM), April 2018. \* Best Presentation Award in the Vehicular Networks Session \*
-*  [CamForensics: Understanding Visual Privacy Leaks in the Wild](https://users.cs.duke.edu/~animeshs/project/camforensics/camforensics.pdf). Srivastava, Animesh; Jain, Puneet; *Demetriou, Soteris*; Cox, Landon; Kim, Kyu-Han. 15th ACM Conference on Embedded Networked Sensor Systems (SenSys), November 2017
+{{< cite page="/publication/hau-short-2021" view="4" >}}
+{{< cite page="/publication/jain-determining-2019" view="4" >}}
+{{< cite page="/publication/demetriou-codrive-2018" view="4" >}}
+{{< cite page="/publication/srivastava-camforensics-2017" view="4" >}}
