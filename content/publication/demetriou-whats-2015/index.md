@@ -56,7 +56,7 @@ doi: 10.14722/ndss.2015.23098
 links:
   - name: 'Slides'
     url: 'https://www.soterisdemetriou.com/publication/demetriou-whats-2015/ndss2015-slides.pdf'
-  - name: 'Project Website'
+  - name: 'Website'
     url: 'https://sites.google.com/site/seacatchannelcontrol/home'
 ---
 
