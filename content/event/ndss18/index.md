@@ -3,7 +3,7 @@ abstract:
 slides: ""
 url_pdf: ""
 summary: 
-title: Presenting our work at NDSS 2018
+title: Video Presentation of our work at NDSS 2018
 location: "NDSS 2018 "
 date: 2018-02-18
 date_end: 2018-02-21
@@ -23,7 +23,7 @@ address:
 links:
   - name: Slides
     url: 'ndss2018_release_slides.pdf'
-  - name: Presentation Video
+  - name: Watch on YouTube
     url: https://www.youtube.com/watch?v=9TFAYgUcsk8
     icon: fa-youtube
     icon_pack: fab
