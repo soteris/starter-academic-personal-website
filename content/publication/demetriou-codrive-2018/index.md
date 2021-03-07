@@ -67,5 +67,3 @@ url_slides: "codriveSlides.pdf"
 url_video: "https://www.youtube.com/watch?v=jAuJFiYq2bQ"
 ---
 > :trophy: Best in-session presentation award in Vehicular Networks session
-> [Slides]{codriveSlides.pdf}
-> :film_strip: [Presentation Video]{https://www.youtube.com/watch?v=jAuJFiYq2bQ}
