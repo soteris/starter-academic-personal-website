@@ -70,7 +70,8 @@ links:
   - name: Presentation Video
     url: 'https://www.youtube.com/watch?v=jAuJFiYq2bQ'
 ---
-> :trophy:  Best in-session presentation award in Vehicular Networks session
+### :trophy: Award(s)
+Best in-session presentation award in Vehicular Networks session.
 
-### :bulb: Patent
+### :bulb: Patent(s)
 {{< cite page="/publication/jain-determining-2019" view="4" >}}
