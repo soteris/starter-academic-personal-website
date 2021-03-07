@@ -64,9 +64,11 @@ publishDate: 2021-03-06T19:32:02.314858Z
 # url_dataset = ""
 # url_project = ""
 # url_slides: "slides.pdf"
-[[url_custom]]
-  name = "Slides"
-  src = "slides.pdf"
+links:
+  - icon_pack: fab
+    icon: file-pdf
+    name: Slides
+    url: 'slides.pdf'
 url_video: "https://www.youtube.com/watch?v=jAuJFiYq2bQ"
 ---
 > :trophy:  Best in-session presentation award in Vehicular Networks session
