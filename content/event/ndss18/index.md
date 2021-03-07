@@ -34,8 +34,8 @@ links:
     
 publishDate: 2017-01-01T00:00:00Z
 tags: []
-projects:
-  - authentication-authorization-and-access-control
+# projects:
+#  - authentication-authorization-and-access-control
 image:
   caption: ""
   focal_point: Right
