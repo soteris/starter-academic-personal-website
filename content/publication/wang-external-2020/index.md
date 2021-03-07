@@ -41,6 +41,6 @@ publishDate: '2021-03-06T19:32:01.902411Z'
 publication_types:
 - '8'
 abstract: ''
-publication: ''
+publication: 'US Patent: US10685142B2'
 url_pdf: https://patents.google.com/patent/US10685142B2/en
 ---
