@@ -4,12 +4,12 @@ abstract: Recorded presentation of CoDrive, a solution for improving outdoor
 slides: ""
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
-title: CoDrive Presentation at IEEE INFOCOM 2018
-location: "IEEE INFOCOM "
-date: 2018-04-14T23:00:00.000Z
-date_end: 2018-04-18T23:00:00.000Z
+title: Presenting our work at NDSS 2018
+location: "NDSS 2018 "
+date: 2018-02-18T23:00:00.000Z
+date_end: 2018-02-21T23:00:00.000Z
 all_day: false
-event: IEEE INFOCOM 2018
+event: NDSS 2018
 event_url: https://infocom2018.ieee-infocom.org/program/main-technical-program
 featured: false
 authors: []
@@ -22,21 +22,26 @@ address:
   postcode: "94305"
   country: United States
 links:
-  - url: https://www.youtube.com/watch?v=jAuJFiYq2bQ
+  - url: https://www.youtube.com/watch?v=9TFAYgUcsk8
     icon: fa-youtube
     icon_pack: null
     name: YouTube Video
 publishDate: 2017-01-01T00:00:00Z
 tags: []
 projects:
-  - sensing-and-localisation
+  - authentication-authorization-and-access-control
+  - mobile-devices-and-iot-systems-security
 image:
   caption: ""
   focal_point: Right
 url_code: ""
 ---
-This is a recent presentation of our work published at IEEE INFOCOM 2018. A version of this presentation won the *Best In-Session Presentation Award* for the "Vehicular Networks" session at the conference.
+This is a presentation of our work published at IEEE INFOCOM 2018. A version of this presentation won the *Best In-Session Presentation Award* for the "Vehicular Networks" session at the conference.
 
-> [Slides](https://www.soterisdemetriou.com/publication/demetriou-codrive-2018/slides.pdf)
->
-> :trophy: Best In-Session Presentation Award
+> {{< cite page="/publication/tuncay-resolving-2018" view="4" >}}
+
+> [Slides](https://www.soterisdemetriou.com/publication/tuncay-resolving-2018/ndss2018_release_slides.pdf)
+
+> :trophy: Distinguished Paper Award
+
+> :trophy: Finalist at the Cybersecurity Awareness Worldwide (CSAW) applied research competition
