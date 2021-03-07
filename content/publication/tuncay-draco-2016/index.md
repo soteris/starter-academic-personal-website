@@ -68,4 +68,7 @@ publication: '*Proceedings of the 2016 ACM SIGSAC Conference on Computer and Com
   Security (ACM CCS '16)*. *Acceptance rate=16.5% (137/831)*'
 url_pdf: https://doi.org/10.1145/2976749.2978322
 doi: 10.1145/2976749.2978322
+links:
+  - name: 'Presentation Video'
+    url: 'https://www.youtube.com/watch?v=gnnPaYCnS0o'
 ---
