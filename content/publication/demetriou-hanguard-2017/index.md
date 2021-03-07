@@ -67,5 +67,7 @@ url_pdf: https://doi.org/10.1145/3098243.3098251
 doi: 10.1145/3098243.3098251
 links:
   - name: 'Slides'
-  - url: 'https://www.soterisdemetriou.com/publication/demetriou-hanguard-2017/HanGuard_WiSec_Presentation_public.pdf'
+    url: 'https://www.soterisdemetriou.com/publication/demetriou-hanguard-2017/HanGuard_WiSec_Presentation_public.pdf'
+  - name: 'Demo Video'
+    url: 'https://www.youtube.com/watch?v=AuRP3IUdeuc'
 ---
