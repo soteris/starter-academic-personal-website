@@ -17,7 +17,6 @@ authors:
 tags:
 - '"information leaks"'
 - '"mobile security"'
-- '"privacy"'
 categories: []
 date: '2013-11-01'
 lastmod: 2021-03-06T18:52:33Z
