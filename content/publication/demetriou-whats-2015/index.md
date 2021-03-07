@@ -59,3 +59,6 @@ links:
   - name: 'Project Website'
     url: 'https://sites.google.com/site/seacatchannelcontrol/home'
 ---
+
+### Related
+{{< cite page="/publication/wang-external-2020" view="4" >}}
