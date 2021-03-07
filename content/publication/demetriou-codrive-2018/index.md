@@ -56,7 +56,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-summary: "Acceptance Rate: Acceptance rate=19.2% (309/1606); Best in-session presentation award in Vehicular Networks session."
+summary: "Acceptance rate=19.2% (309/1606); Best in-session presentation award in Vehicular Networks session."
 lastmod: 2021-03-06T18:52:32.000Z
 date: 2018-04-01
 publishDate: 2021-03-06T19:32:02.314858Z
