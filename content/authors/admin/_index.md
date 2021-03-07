@@ -87,8 +87,8 @@ I am a Lecturer (Assistant Professor in US jargon) at Imperial College London an
     <li><b>Conference OC (May, 2019)</b>: I was invited to serve at the Organisation Committee (Finance Co-Chair) of the 26th Annual International Conference on Mobile Computing and Networking (ACM Mobicom).</li>
     <li>:page_facing_up: <b>Publication (Feb 19th, 2019)</b>: Our paper titled “BEEER: Distributed Record and Replay for Medical Devices in Hospital Operating Rooms’” has been accepted at HotSoS 2019.</li>
     <li><b>Conference PC (Dec, 2018)</b>: I was invited to serve at the Program Committee of the 26th ACM Conference on Computer and Communications Security (ACM CCS 2019). CCS is the flagship security conference of ACM.</li>
-    <li><b>News Article (September 28th, 2018)</b>: “Getting smart on smartphone cyber security”, Duncan Swinscow-Hall, Imperial College London, (link to article).</li>
-    <li><b>New Appointment (September 1st, 2018)</b>: Appointed as a Lecturer (Assistant Professor) at Imperial College London.</li>
+    <li>:newspaper: <b>News Article (September 28th, 2018)</b>: “Getting smart on smartphone cyber security”, Duncan Swinscow-Hall, Imperial College London, (link to article).</li>
+    <li>:office: <b>New Appointment (September 1st, 2018)</b>: Appointed as a Lecturer (Assistant Professor) at Imperial College London.</li>
     <li>:trophy: <b>Best-in-Session Presentation Award (May 20th, 2018)</b>: I was awarded a best-in-session presentation award at IEEE INFOCOM 2018.</li>
     <li>:medal_sports: <b>Travel Award (March 27th, 2018)</b>: I was awarded a conference travel grant by the Graduate College at the University of Illinois at Urbana-Champaign to attend IEEE INFOCOM 2018 and present our work.</li>
     <li>:trophy: <b>Distinguished Paper Award (Feb 21st, 2018)</b>: Our paper titled “Resolving the Predicament of Android Custom Permissions” has received a Distinguished Paper Award at NDSS 2018.</li>
@@ -96,12 +96,12 @@ I am a Lecturer (Assistant Professor in US jargon) at Imperial College London an
     <li>:page_facing_up: <b>Publication (Oct 26th, 2017)</b>: Our paper titled “Resolving the Predicament of Android Custom Permissions” has been accepted at NDSS.</li>
     <li>:page_facing_up: Publication (July 13th, 2017): Our paper titled “CamForensics: Understanding Visual Privacy Leaks in the Wild.” has been accepted at SenSys.</li>
     <li>:medal_sports: <b>Award (May, 2017)</b>: I was selected for sponsorship and travel support to the 5th Heidelberg Laureate Forum (HLF) by the Oak Ridge Associated Universities (ORAU) and the National Science Foundation (NSF).</li>
-    <li><b>Publication (May 2nd, 2017)</b>: Our paper titled “HanGuard: SDN-driven protection of smart-home WiFi devices from malicious mobile apps.” has been accepted at WiSec.</li>
+    <li>:page_facing_up: <b>Publication (May 2nd, 2017)</b>: Our paper titled “HanGuard: SDN-driven protection of smart-home WiFi devices from malicious mobile apps.” has been accepted at WiSec.</li>
     <li>:medal_sports: <b>Award (April 12th, 2017)</b>: I was selected as a young researcher in the fields of Mathematics and Computer Science to participate in the Heidelberg Laureate Forum.</li>
     <li>:medal_sports: <b>Award (April 6th, 2017)</b>: I was selected to participate in the French-American Doctoral Exchange (FADex) program focused in Cybersecurity.</li>
     <li>:page_facing_up: <b>Publication (March 6th, 2017)</b>: Our paper titled “Ghost Installer in the Shadow: Security Analysis of App Installation on Android” has been accepted at DSN.</li>
     <li>:medal_sports: <b>Award (August 2nd, 2016)</b>: I have been awarded the Best in Class Award during the 2016 Intern Project Fair at Hewlett-Packard Enterprise.</li>
-    <li><b>Publication (July 22nd, 2016)</b>: Our paper titled “Draco: Uniform and Fine-grained Control of Web Code Access on Android” has been accepted at CCS.</li>
+    <li><b>:page_facing_up: Publication (July 22nd, 2016)</b>: Our paper titled “Draco: Uniform and Fine-grained Control of Web Code Access on Android” has been accepted at CCS.</li>
   </ul>
 </div>
 
