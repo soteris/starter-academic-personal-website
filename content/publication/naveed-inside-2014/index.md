@@ -52,6 +52,6 @@ links:
     url: 'https://soterisdemetriou.com/publication/naveed-inside-2014/ndss2014-slides.pdf'
   - name: 'Source Code'
     url: 'https://github.com/cryptoonline/InsideJob'
-  - name: 'Project Website'
+  - name: 'Website'
     url: 'https://sites.google.com/site/edmbdroid/'
 ---
