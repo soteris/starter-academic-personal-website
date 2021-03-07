@@ -46,7 +46,7 @@ url_code: ""
 
 > :trophy: Distinguished Paper Award. 
 
-> :trophy: Finalist at the Cybersecurity Awareness Worldwide (CSAW) applied research competition.
+> :checkered_flag: Finalist at the Cybersecurity Awareness Worldwide (CSAW) applied research competition.
 
 > {{< cite page="/publication/tuncay-resolving-2018" view="4" >}}
 
