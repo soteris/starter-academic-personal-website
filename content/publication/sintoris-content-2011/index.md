@@ -43,6 +43,6 @@ abstract: In this paper we discuss the use of social media as tools for collabor
   The game design process is presented as the interplay between technology, learning
   and content with the content generation as a distinct phase of the process. Finally
   we discuss the opportunities and limitations of using social media for content-creation.
-publication: '*IS-EUD 2011 Workshop Involving End Users and Domain Experts in Design
-  of Educational Games*'
+publication: '*IS-EUD 2011 Workshop Involving End Users and Domain Experts in Design of Educational Games*'
+
 ---
