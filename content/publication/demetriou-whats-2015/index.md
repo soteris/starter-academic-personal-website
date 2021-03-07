@@ -53,4 +53,9 @@ abstract: 'The pervasiveness of security-critical external resources (e.g access
 publication: '*Proceedings of the 22nd Network and Distributed System Security Symposium (NDSS '15)*. *Acceptance rate=16.9% (51/302)*'
 url_pdf: https://www.ndss-symposium.org/ndss2015/ndss-2015-programme/whats-your-dongle-and-bank-account-mandatory-and-discretionary-protection-android-external/
 doi: 10.14722/ndss.2015.23098
+links:
+  - name: 'Slides'
+    url: 'https://www.soterisdemetriou.com/publication/demetriou-whats-2015/ndss2015-slides.pdf'
+  - name: 'Project Website'
+    url: 'https://sites.google.com/site/seacatchannelcontrol/home'
 ---
