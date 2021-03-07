@@ -51,7 +51,19 @@ abstract: Android leverages a set of system permissions to protect platform reso
   that can be violated in the current permission model are always satisﬁed in Cusper.
   To demonstrate Cusper’s practicality, we implemented it in the Android platform
   and showed that it is both effective and efﬁcient.
-publication: '*Proceedings 2018 Network and Distributed System Security Symposium*'
+publication: '*Proceedings 2018 Network and Distributed System Security Symposium (NDSS '18)*. *Acceptance rate=21.4% (71/331)*'
 url_pdf: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_08-4_Tuncay_paper.pdf
 doi: 10.14722/ndss.2018.23210
+links:
+  - name: Slides
+    url: 'slides.pdf'
+  - name: Presentation Video
+    url: 'https://www.youtube.com/watch?v=9TFAYgUcsk8'
+  - name: Source Code (Formal Model)
+    url: 'https://github.com/gulizseray/alloy-android-permissions'
+  - name: 'Project Website'
+    url: 'https://sites.google.com/view/cusper-custom-permissions/home'
 ---
+> :trophy: Distinguished Paper Award at NDSS '18
+
+>:trophy: Finalist at the Cybersecurity Awareness Worldwide (CSAW) applied research competition
