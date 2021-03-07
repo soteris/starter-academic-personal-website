@@ -8,7 +8,8 @@ authors:
   - P. Jain
   - K. Kim
 doi: 10.1109/INFOCOM.2018.8486281
-publication: '*IEEE Conference on Computer Communications (IEEE INFOCOM ''18).* *Acceptance rate=19.2% (309/1606)*'
+publication: "*IEEE Conference on Computer Communications (IEEE INFOCOM '18).*
+  *Acceptance rate=19.2% (309/1606)*"
 abstract: An increasing number of depth sensors and surrounding-aware cameras
   are being installed in the new generation of cars. For example, Tesla Motors
   uses a forward radar, a front-facing camera, and multiple ultrasonic sensors
@@ -50,8 +51,6 @@ tags:
   - '"smartphone GPS"'
   - '"traffic engineering computing"'
   - '"Visualization"'
-categories: []
-projects: ["sensing-and-localisation"]
 image:
   caption: ""
   focal_point: ""
@@ -59,19 +58,20 @@ image:
 summary: ""
 lastmod: 2021-03-06T18:52:32.000Z
 date: 2018-04-01
-publishDate: 2021-03-06T19:32:02.314858Z
-# url_code = ""
-# url_dataset = ""
-# url_project = ""
-# url_slides: "slides.pdf"
 links:
   - name: Slides
-    url: 'https://www.soterisdemetriou.com/publication/demetriou-codrive-2018/slides.pdf'
+    url: https://www.soterisdemetriou.com/publication/demetriou-codrive-2018/slides.pdf
   - name: Presentation Video
-    url: 'https://www.youtube.com/watch?v=jAuJFiYq2bQ'
+    url: https://www.youtube.com/watch?v=jAuJFiYq2bQ
+categories: []
+projects:
+  - sensing-and-localisation
+publishDate: 2021-03-06T19:32:02.314Z
 ---
 ### :trophy: Award(s)
-> Best in-session presentation award in Vehicular Networks session.
+
+> Best in-session presentation award in the "Vehicular Networks" session of IEEE INFOCOM 2018.
 
 ### :bulb: Patent(s)
+
 > {{< cite page="/publication/jain-determining-2019" view="4" >}}
