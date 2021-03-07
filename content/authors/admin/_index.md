@@ -74,8 +74,8 @@ I am a Lecturer (Assistant Professor) at Imperial College London and the Directo
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "/uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-<div style="overflow: auto; height:100%; width:100%; border-style:solid">
-  <h4>:speaking_head: &nbsp;&nbsp; Announcements</h4>
+<div style="overflow: auto; height:100%; width:100%; border: 1px solid #795548">
+  <h4>&nbsp;:newspaper_roll:&nbsp; News</h4>
 
   <ul>
     <li>test announcement</li>
