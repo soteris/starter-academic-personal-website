@@ -49,7 +49,7 @@ url_pdf: https://www.ndss-symposium.org/ndss2014/programme/inside-job-understand
 doi: 10.14722/ndss.2014.23097
 links:
   - name: 'Slides'
-    url: 'https://soterisdemetriou.netlify.app/publication/naveed-inside-2014/ndss2014-slides.pdf'
+    url: 'https://soterisdemetriou.com/publication/naveed-inside-2014/ndss2014-slides.pdf'
   - name: 'Source Code'
     url: 'https://github.com/cryptoonline/InsideJob'
   - name: 'Project Website'
