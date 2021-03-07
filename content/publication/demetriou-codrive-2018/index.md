@@ -65,10 +65,9 @@ publishDate: 2021-03-06T19:32:02.314858Z
 # url_project = ""
 # url_slides: "slides.pdf"
 links:
-  - icon_pack: fab
-    icon: file-pdf
-    name: Slides
+  - name: Slides
     url: 'slides.pdf'
-url_video: "https://www.youtube.com/watch?v=jAuJFiYq2bQ"
+  - name: Presentation Video
+    url: 'https://www.youtube.com/watch?v=jAuJFiYq2bQ'
 ---
 > :trophy:  Best in-session presentation award in Vehicular Networks session
