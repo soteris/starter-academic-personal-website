@@ -39,7 +39,7 @@ url_code: ""
 ---
 {{< youtube jAuJFiYq2bQ >}}
 
-> :trophy: **Best In-Session Presentation Award** in the "Vehicular Networks" session at IEEE INFOCOM 2018.
+> :trophy:  **Best In-Session Presentation Award** in the "Vehicular Networks" session at IEEE INFOCOM 2018.
 
 > [Slides](https://www.soterisdemetriou.com/publication/demetriou-codrive-2018/slides.pdf)
  
