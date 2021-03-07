@@ -74,5 +74,5 @@ links:
     url: 'https://sites.google.com/site/projecthanguard/home'
 ---
 
-#### Demo
+### Video Demonstration
 {{< youtube AuRP3IUdeuc >}}
