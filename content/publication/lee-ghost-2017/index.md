@@ -70,7 +70,7 @@ abstract: 'Android allows developers to build apps with app installation functio
   found in all steps of AIT. The attacks we present, dubbed Ghost Installer Attack
   (GIA), are found to pose a realistic threat to Android ecosystem. Further, we developed
   both a user-app-level and a system-level defense that are innovative and practical.'
-publication: '*2017 47th Annual IEEE/IFIP International Conference on Dependable Systems
-  and Networks (DSN)*'
+publication: '*47th Annual IEEE/IFIP International Conference on Dependable Systems
+  and Networks (DSN ''17)*'
 doi: 10.1109/DSN.2017.33
 ---
