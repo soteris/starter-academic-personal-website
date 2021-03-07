@@ -38,6 +38,6 @@ publishDate: '2021-03-06T19:32:02.181346Z'
 publication_types:
 - '8'
 abstract: ''
-publication: ''
+publication: 'US Patent: US10380889B2'
 url_pdf: https://patents.google.com/patent/US10380889B2/en
 ---
