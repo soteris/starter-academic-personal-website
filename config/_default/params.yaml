@@ -24,10 +24,10 @@ twitter: ''
 email: s.demetriou@imperial.ac.uk
 phone: +44 (0)20 7594 8237
 address: 
-  street: 180 Queen''s Gate
+  street: 180 Queen''s Gate, South Kensington
   city: London
   region: 
-  postcode: 'SW7 5QL'
+  postcode: 'SW7 2AZ'
   country: United Kingdom
   country_code: UK
 coordinates:
@@ -140,8 +140,8 @@ search:
   #   3: OpenStreetMap (Mapbox)
   
 map:
-  provider: '3'
-  api_key: 'pk.eyJ1Ijoic290ZXJpc2QiLCJhIjoiY2ttMGR3bG1hMjUxZTJvbzNlMWs3cGQ4MSJ9.Fs2oikK8YHdEVdR46ipd4A'
+  provider: '0'
+  api_key: ''
   zoom: 15
 marketing:
   google_analytics: ''
