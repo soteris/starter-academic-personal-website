@@ -138,8 +138,8 @@ search:
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
 map:
-  provider: '2'
-  api_key: ''
+  provider: '3'
+  api_key: 'pk.eyJ1Ijoic290ZXJpc2QiLCJhIjoiY2ttMGR3bG1hMjUxZTJvbzNlMWs3cGQ4MSJ9.Fs2oikK8YHdEVdR46ipd4A'
   zoom: 15
 marketing:
   google_analytics: ''
