@@ -24,15 +24,15 @@ twitter: ''
 email: s.demetriou@imperial.ac.uk
 phone: +44 (0)20 7594 8237
 address: 
-  street: Department of Computing, 180 Queen's Gate
+  street: 180 Queen''s Gate
   city: London
   region: 
-  postcode: 'SW7 2RH'
+  postcode: 'SW7 5QL'
   country: United Kingdom
   country_code: UK
 coordinates:
-  latitude: '51.49902'
-  longitude: '-0.17911'
+  latitude: '51.49865'
+  longitude: '-0.1795'
 directions: ACEX Building, Floor 3, Office 353
 # office_hours:
 #  - 'Monday 4:00pm to 7:00pm (UK)'
