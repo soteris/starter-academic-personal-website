@@ -100,7 +100,7 @@ copyright_license:
 abstract_length: 135
 plugins_js: []
 avatar:
-  gravatar: true
+  gravatar: false
   shape: circle
 publications:
   date_format: January 2006
@@ -132,8 +132,13 @@ search:
     api_key: ''
     index_name: ''
     show_logo: false
+# Map provider:
+  #   0: No map
+  #   1: Google Maps
+  #   2: OpenStreetMap (Mapnik)
+  #   3: OpenStreetMap (Mapbox)
 map:
-  provider: ''
+  provider: '1'
   api_key: ''
   zoom: 15
 marketing:
