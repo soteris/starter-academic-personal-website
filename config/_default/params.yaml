@@ -138,7 +138,7 @@ search:
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
 map:
-  provider: '1'
+  provider: '2'
   api_key: ''
   zoom: 15
 marketing:
