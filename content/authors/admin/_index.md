@@ -70,7 +70,7 @@ email: "s.demetriou@imperial.ac.uk"
 highlight_name: false
 ---
 
-I am a Lecturer (Assistant Professor in US jargon) at Imperial College London and the Director of the [Applications, Platforms, and Systems Security](https://apss.doc.ic.ac.uk/) (apss) lab. My research focuses on Security and Privacy issues related to mobile and cyber-physical systems (CPS). I have been studying side-channel and confused deputy attacks on the Android OS and its privacy threats from mobile advertising; IoT vulnerabilities in smart-home environments and vulnerabilities of machine learning models utilized in connected and autonomous vehicles. I've worked in strengthening the security of mobile and CPS systems designing access control schemes, anomaly detection and trusted computing mechanisms among others.
+I am an Assistant Professor at Imperial College London and the Director of the [Applications, Platforms, and Systems Security](https://apss.doc.ic.ac.uk/) (apss) lab. My research focuses on Security and Privacy issues related to mobile and cyber-physical systems (CPS). I have been studying side-channel and confused deputy attacks on the Android OS and its privacy threats from mobile advertising; IoT vulnerabilities in smart-home environments and vulnerabilities of machine learning models utilized in connected and autonomous vehicles. I've worked in strengthening the security of mobile and CPS systems designing access control schemes, anomaly detection and trusted computing mechanisms among others.
 
 {{< icon name="download" pack="fas" >}} Download my resumé: {{< staticref "/uploads/resume.pdf" "newtab" >}}full version{{< /staticref >}} - [short 2-page version](https://www.dropbox.com/s/2gl1emus1ywhu6f/resume_demetriou_short.pdf?dl=0).
 
