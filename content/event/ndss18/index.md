@@ -44,7 +44,7 @@ url_code: ""
 
 {{< youtube 9TFAYgUcsk8 >}}
 
-> :trophy: Our paper received a distinguished paper award. 
+> :trophy: Our paper received a distinguished paper award at NDSS '18. 
 
 > :checkered_flag: Our paper was a finalist at the Cybersecurity Awareness Worldwide (CSAW) applied research competition.
 
